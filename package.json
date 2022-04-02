@@ -1,0 +1,23 @@
+{
+  "name": "tpi-hash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandresalvador/tpi-hash-javascript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandresalvador/tpi-hash-javascript/issues"
+  },
+  "homepage": "https://github.com/alexandresalvador/tpi-hash-javascript#readme"
+}
